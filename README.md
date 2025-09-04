@@ -146,8 +146,19 @@ python3 attacks_S4.py --sample 500 -d 256 --attack pwws -ka 0.2 -kb 0.1 > logs_a
 If you use this code or find our work helpful in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{later}
-```
+@inproceedings{bouri-saoud-2025-bridging,
+    title = "Bridging Robustness and Generalization Against Word Substitution Attacks in {NLP} via the Growth Bound Matrix Approach",
+    author = "Bouri, Mohammed  and
+      Saoud, Adnane",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.627/",
+    doi = "10.18653/v1/2025.findings-acl.627",
+    pages = "12118--12137",
+    ISBN = "979-8-89176-256-5"```
 
 ## 🤝 Contributions
 
